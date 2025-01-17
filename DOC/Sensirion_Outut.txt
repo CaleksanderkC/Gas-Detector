@@ -1,0 +1,29 @@
+    
+    Particle Pollution  2.5 micrometres or smaller
+
+     
+     * @param massConcentrationPm1p0  PM1.0 [µg/m³]
+        1 micrometres or smaller
+         
+     * @param massConcentrationPm2p5  PM2.5 [µg/m³]
+        2.5 micrometres or smaller
+     
+     * @param massConcentrationPm4p0  PM4.0 [µg/m³]
+        4.0 micrometres or smaller
+     
+     * @param massConcentrationPm10p0  PM10.0 [µg/m³]
+        10 micrometres or smaller
+
+     * @param ambientHumidity RH [%]
+        Wilgotność powietrza 
+
+     * @param ambientTemperature T [°C]
+
+     
+     * @param vocIndex  VOC Index   "+H2"
+        Volatile organic compounds (VOC) (Lotne związki ograniczne)  (1 to 500)  s the current VOC status in a room relative to the sensor’s recent history. past  24 as learning time. VOC Index above 100
+     
+     * @param noxIndex  NOx Index
+        Tlenki azotu   --//--   the value of 1, making the readout as easy as possible: an NOx Index
+above 1 means that there are more NOx compounds compared to the
+averag

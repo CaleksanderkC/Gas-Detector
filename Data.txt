@@ -1,0 +1,44 @@
+
+ ------------- 
+
+A0: 5
+A1: 246
+A2: 663
+Pm1p0: 28.90
+Pm2p5:31.10
+Pm4p0:31.70
+Pm10p0:31.90
+AmbientHumidity:42.13
+AmbientTemperature:23.79
+VocIndex:73.00
+NoxIndex:1.00
+
+ ------------- 
+
+A0: 3
+A1: 244
+A2: 668
+Pm1p0: 28.90
+Pm2p5:31.00
+Pm4p0:31.60
+Pm10p0:31.90
+AmbientHumidity:43.02
+AmbientTemperature:23.79
+VocIndex:92.00
+NoxIndex:1.00
+
+ ------------- 
+
+A0: 3
+A1: 244
+A2: 669
+Pm1p0: 28.80
+Pm2p5:30.90
+Pm4p0:31.50
+Pm10p0:31.80
+AmbientHumidity:43.84
+AmbientTemperature:23.79
+VocIndex:105.00
+NoxIndex:1.00
+
+ ------------- 
