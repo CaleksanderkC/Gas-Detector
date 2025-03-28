@@ -1,0 +1,14 @@
+Plik 1 :
+
+	data.txt
+
+		start: 13 February 2025 14∶17∶01
+		end:   13 February 2025 14∶40∶31
+
+
+Plik 2:
+
+	PuTTY_out.txt
+	
+		start: 13 February 2025 14:42:00
+		end:   13 February 2025 14∶54∶18

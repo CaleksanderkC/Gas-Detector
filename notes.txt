@@ -1,0 +1,13 @@
+TSG 2611
+
+	Detection range 500-10000 ppm   Methane, natural Gas
+
+
+
+MQ-7
+
+	10-500 ppm CO
+
+
+	
+	p1 15:50
